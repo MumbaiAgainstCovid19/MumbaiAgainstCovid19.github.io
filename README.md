@@ -40,7 +40,7 @@ Dr D Kansara.  | [8369846412](tel:+918369846412) | [![whatsapp](whatsapp_logo_32
 **For telephonic guidance on Covid-19 from 12 to 4 pm-**
 
 Volunteer      |Phone number
- ------------- | ------------
+ ------------- | ------------ | ------------
 Dr G Kamath.   | [9136575405](tel:+919136575405) | [![whatsapp](whatsapp_logo_32.png "whatsapp")](https://wa.me/919136575405)
 Dr S Manglik.  | [9820222384](tel:+919820222384) | [![whatsapp](whatsapp_logo_32.png "whatsapp")](https://wa.me/919820222384)
 Dr J Jain.     | [7021092685](tel:+917021092685) | [![whatsapp](whatsapp_logo_32.png "whatsapp")](https://wa.me/917021092685)
@@ -54,7 +54,7 @@ Dr J Shah.     | [9869031354](tel:+919869031354) | [![whatsapp](whatsapp_logo_32
 **For telephonic guidance on Covid-19 from 4 to 8 pm-**
 
 Volunteer      |Phone number
- ------------- | ------------
+ ------------- | ------------ | ------------
 Dr N Zaveri.   | [9321489748](tel:+919321489748) | [![whatsapp](whatsapp_logo_32.png "whatsapp")](https://wa.me/919321489748)
 Dr S Ansari.   | [7045720278](tel:+917045720278) | [![whatsapp](whatsapp_logo_32.png "whatsapp")](https://wa.me/917045720278)
 Dr L Kedia.    | [9321470560](tel:+919321470560) | [![whatsapp](whatsapp_logo_32.png "whatsapp")](https://wa.me/919321470560)
@@ -66,7 +66,7 @@ Dr M Kotian.   | [8928650290](tel:+918928650290) | [![whatsapp](whatsapp_logo_32
 **For telephonic guidance on Covid-19 from 8 to 11 pm-**
 
 Volunteer      |Phone number
- ------------- | ------------
+ ------------- | ------------ | ------------
 Dr N Kumar.    | [8104605550](tel:+918104605550) | [![whatsapp](whatsapp_logo_32.png "whatsapp")](https://wa.me/918104605550)
 Dr P Bhargav.  | [9833887603](tel:+919833887603) | [![whatsapp](whatsapp_logo_32.png "whatsapp")](https://wa.me/919833887603)
 Dr R Chauhan.  | [9892135010](tel:+919892135010) | [![whatsapp](whatsapp_logo_32.png "whatsapp")](https://wa.me/919892135010)
