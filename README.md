@@ -77,4 +77,6 @@ Dr S Dhulekar. | [9892139027](tel:+919892139027)
 Dr S Pandit.   | [9422473277](tel:+919422473277)
 
 
-P.S. - Another excellent helpline (24×7) has been initiated by **Indian Medical Association**. The numbers are +919999672238 and +919999672239.
+
+P.S. - Another excellent helpline (24×7) has been initiated by **Indian Medical Association**. 
+The numbers are [+919999672238](tel:+919999672238) and [+919999672239](tel:+919999672239).
