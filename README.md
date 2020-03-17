@@ -1,5 +1,3 @@
-
-
 Dear Mumbaikar,
 
 Greetings from **Physician Volunteers for Telephonic Guidance on Covid-19**. 
@@ -30,27 +28,27 @@ Please feel free to forward this message to your family and friends.
 **For telephonic guidance on COVID-19 from 8 am to 12 noon-**
 
 Volunteer      |Phone number
- ------------- | ------------
-Dr Tushar Shah.| [9321469911](tel:+919321469911)
-Dr M Bhatt.    | [9320407074](tel:+919320407074)
-Dr D Doshi.    | [9820237951](tel:+919820237951)
-Dr D Rathod.   | [8879148679](tel:+918879148679)
-Dr R Gwalani.  | [8779835257](tel:+918779835257)
-Dr D Kansara.  | [8369846412](tel:+918369846412)
+ ------------- | ------------ | ------------
+Dr Tushar Shah.| [9321469911](tel:+919321469911) | [![whatsapp](https://seeklogo.net/wp-content/uploads/2018/04/whatsapp-logo.png "whatsapp")](https://wa.me/919321469911)
+Dr M Bhatt.    | [9320407074](tel:+919320407074) | [![whatsapp](https://seeklogo.net/wp-content/uploads/2018/04/whatsapp-logo.png "whatsapp")](https://wa.me/919320407074)
+Dr D Doshi.    | [9820237951](tel:+919820237951) | [![whatsapp](https://seeklogo.net/wp-content/uploads/2018/04/whatsapp-logo.png "whatsapp")](https://wa.me/919820237951)
+Dr D Rathod.   | [8879148679](tel:+918879148679) | [![whatsapp](https://seeklogo.net/wp-content/uploads/2018/04/whatsapp-logo.png "whatsapp")](https://wa.me/918879148679)
+Dr R Gwalani.  | [8779835257](tel:+918779835257) | [![whatsapp](https://seeklogo.net/wp-content/uploads/2018/04/whatsapp-logo.png "whatsapp")](https://wa.me/918779835257)
+Dr D Kansara.  | [8369846412](tel:+918369846412) | [![whatsapp](https://seeklogo.net/wp-content/uploads/2018/04/whatsapp-logo.png "whatsapp")](https://wa.me/918369846412)
 
 
 **For telephonic guidance on Covid-19 from 12 to 4 pm-**
 
 Volunteer      |Phone number
  ------------- | ------------
-Dr G Kamath.   | [9136575405](tel:+919136575405)
-Dr S Manglik.  | [9820222384](tel:+919820222384)
-Dr J Jain.     | [7021092685](tel:+917021092685)
-Dr A Thakkar.  | [9321470745](tel:+919321470745)
-Dr L Bhagat.   | [9820732570](tel:+919820732570)
-Dr N Shah.     | [9821140656](tel:+919821140656)
-Dr S Phanse.   | [8779328220](tel:+918779328220)
-Dr J Shah.     | [9869031354](tel:+919869031354)
+Dr G Kamath.   | [9136575405](tel:+919136575405) | [![whatsapp](https://seeklogo.net/wp-content/uploads/2018/04/whatsapp-logo.png "whatsapp")](https://wa.me/919136575405)
+Dr S Manglik.  | [9820222384](tel:+919820222384) | [![whatsapp](https://seeklogo.net/wp-content/uploads/2018/04/whatsapp-logo.png "whatsapp")](https://wa.me/919820222384)
+Dr J Jain.     | [7021092685](tel:+917021092685) | [![whatsapp](https://seeklogo.net/wp-content/uploads/2018/04/whatsapp-logo.png "whatsapp")](https://wa.me/917021092685)
+Dr A Thakkar.  | [9321470745](tel:+919321470745) | [![whatsapp](https://seeklogo.net/wp-content/uploads/2018/04/whatsapp-logo.png "whatsapp")](https://wa.me/919321470745)
+Dr L Bhagat.   | [9820732570](tel:+919820732570) | [![whatsapp](https://seeklogo.net/wp-content/uploads/2018/04/whatsapp-logo.png "whatsapp")](https://wa.me/919820732570)
+Dr N Shah.     | [9821140656](tel:+919821140656) | [![whatsapp](https://seeklogo.net/wp-content/uploads/2018/04/whatsapp-logo.png "whatsapp")](https://wa.me/919821140656)
+Dr S Phanse.   | [8779328220](tel:+918779328220) | [![whatsapp](https://seeklogo.net/wp-content/uploads/2018/04/whatsapp-logo.png "whatsapp")](https://wa.me/918779328220)
+Dr J Shah.     | [9869031354](tel:+919869031354) | [![whatsapp](https://seeklogo.net/wp-content/uploads/2018/04/whatsapp-logo.png "whatsapp")](https://wa.me/919869031354)
 
 
 **For telephonic guidance on Covid-19 from 4 to 8 pm-**
@@ -75,7 +73,6 @@ Dr R Chauhan.  | [9892135010](tel:+919892135010)
 Dr B Kharat.   | [9969471815](tel:+919969471815)
 Dr S Dhulekar. | [9892139027](tel:+919892139027)
 Dr S Pandit.   | [9422473277](tel:+919422473277)
-
 
 
 P.S. - Another excellent helpline (24×7) has been initiated by **Indian Medical Association**. 
