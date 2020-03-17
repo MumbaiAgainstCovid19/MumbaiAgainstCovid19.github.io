@@ -55,24 +55,24 @@ Dr J Shah.     | [9869031354](tel:+919869031354) | [![whatsapp](whatsapp_logo_32
 
 Volunteer      |Phone number
  ------------- | ------------
-Dr N Zaveri.   | [9321489748](tel:+919321489748)
-Dr S Ansari.   | [7045720278](tel:+917045720278)
-Dr L Kedia.    | [9321470560](tel:+919321470560)
-Dr B Shukla.   | [9321489060](tel:+919321489060)
-Dr S Halwai.   | [9867379346](tel:+919867379346)
-Dr M Kotian.   | [8928650290](tel:+918928650290)
+Dr N Zaveri.   | [9321489748](tel:+919321489748) | [![whatsapp](whatsapp_logo_32.png "whatsapp")](https://wa.me/919321489748)
+Dr S Ansari.   | [7045720278](tel:+917045720278) | [![whatsapp](whatsapp_logo_32.png "whatsapp")](https://wa.me/917045720278)
+Dr L Kedia.    | [9321470560](tel:+919321470560) | [![whatsapp](whatsapp_logo_32.png "whatsapp")](https://wa.me/919321470560)
+Dr B Shukla.   | [9321489060](tel:+919321489060) | [![whatsapp](whatsapp_logo_32.png "whatsapp")](https://wa.me/919321489060)
+Dr S Halwai.   | [9867379346](tel:+919867379346) | [![whatsapp](whatsapp_logo_32.png "whatsapp")](https://wa.me/919867379346)
+Dr M Kotian.   | [8928650290](tel:+918928650290) | [![whatsapp](whatsapp_logo_32.png "whatsapp")](https://wa.me/918928650290)
 
 
 **For telephonic guidance on Covid-19 from 8 to 11 pm-**
 
 Volunteer      |Phone number
  ------------- | ------------
-Dr N Kumar.    | [8104605550](tel:+918104605550)
-Dr P Bhargav.  | [9833887603](tel:+919833887603)
-Dr R Chauhan.  | [9892135010](tel:+919892135010)
-Dr B Kharat.   | [9969471815](tel:+919969471815)
-Dr S Dhulekar. | [9892139027](tel:+919892139027)
-Dr S Pandit.   | [9422473277](tel:+919422473277)
+Dr N Kumar.    | [8104605550](tel:+918104605550) | [![whatsapp](whatsapp_logo_32.png "whatsapp")](https://wa.me/918104605550)
+Dr P Bhargav.  | [9833887603](tel:+919833887603) | [![whatsapp](whatsapp_logo_32.png "whatsapp")](https://wa.me/919833887603)
+Dr R Chauhan.  | [9892135010](tel:+919892135010) | [![whatsapp](whatsapp_logo_32.png "whatsapp")](https://wa.me/919892135010)
+Dr B Kharat.   | [9969471815](tel:+919969471815) | [![whatsapp](whatsapp_logo_32.png "whatsapp")](https://wa.me/919969471815)
+Dr S Dhulekar. | [9892139027](tel:+919892139027) | [![whatsapp](whatsapp_logo_32.png "whatsapp")](https://wa.me/919892139027)
+Dr S Pandit.   | [9422473277](tel:+919422473277) | [![whatsapp](whatsapp_logo_32.png "whatsapp")](https://wa.me/919422473277)
 
 
 P.S. - Another excellent helpline (24×7) has been initiated by **Indian Medical Association**. 
