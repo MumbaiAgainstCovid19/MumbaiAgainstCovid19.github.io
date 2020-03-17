@@ -28,14 +28,14 @@ These are the TIME SLOTS WITH THE PHONE NUMBERS of volunteer doctors. **Please r
 Please feel free to forward this message to your family and friends. 
 
 **For telephonic guidance on COVID-19 from 8 am to 12 noon-**
-|Volunteer         |Phone number                              |
-| ---------------- | ---------------------------------------- |
-|Dr Tushar Shah.   |<a href="tel:+919321469911">9321469911</a>|
-|Dr M Bhatt.       |<a href="tel:+919320407074">9320407074</a>|
-|Dr D Doshi.       |<a href="tel:+919820237951">9820237951</a>|
-|Dr D Rathod.      |<a href="tel:+918879148679">8879148679</a>|
-|Dr R Gwalani.     |<a href="tel:+918779835257">8779835257</a>|
-|Dr D Kansara.     |<a href="tel:+918369846412">8369846412</a>|
+Volunteer         |Phone number               
+ ---------------- | --------------------------
+Dr Tushar Shah.   |[9321469911](+919321469911)
+Dr M Bhatt.       |[9320407074](+919320407074)
+Dr D Doshi.       |[9820237951](+919820237951)
+Dr D Rathod.      |[8879148679](+918879148679)
+Dr R Gwalani.     |[8779835257](+918779835257)
+Dr D Kansara.     |[8369846412](+918369846412)
 
 **For telephonic guidance on Covid-19 from 12 to 4 pm-**
 
@@ -48,7 +48,7 @@ Dr A Thakkar.  | 9321470745
 Dr L Bhagat.   | 9820732570
 Dr N Shah.     | 9821140656
 Dr S Phanse.   | 8779328220
-Dr J Shah.     | 9869031354
+Dr J Shah.     | [9869031354](tel:+919869031354)
 
 
 **For telephonic guidance on Covid-19 from 4 to 8 pm-**
