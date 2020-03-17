@@ -28,7 +28,8 @@ These are the TIME SLOTS WITH THE PHONE NUMBERS of volunteer doctors. **Please r
 Please feel free to forward this message to your family and friends. 
 
 **For telephonic guidance on COVID-19 from 8 am to 12 noon-**
-
+|Volunteer         |Phone number                              |
+|     ------------ | -------------                            |
 |Dr Tushar Shah.   |<a href="tel:+919321469911">9321469911</a>|
 |Dr M Bhatt.       |<a href="tel:+919320407074">9320407074</a>|
 |Dr D Doshi.       |<a href="tel:+919820237951">9820237951</a>|
