@@ -1,4 +1,4 @@
-# Mumbai Against Covid-19
+
 
 Dear Mumbaikar,
 
